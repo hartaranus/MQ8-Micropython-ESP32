@@ -8,11 +8,10 @@ Modify the code in MQ8.get_resistance() method to change the default Pin
 
 ## Circuit Wiring
 Here's the connection setup
------------------------------
-|   MQ8 To ESP32 Wiring    |
-| ------------------------ |
+---------------------------
+|   MQ8 To ESP32 Wiring   |
+| ----------------------- |
 | Sensor | ESP-32 | Label |
-| --- | --- | --- |
 | VCC | 5V | Vin |
 | GND | GND | GND |
 | A0 | GPIO36 | VP |
