@@ -10,13 +10,13 @@ Modify the code in MQ8.get_resistance() method to change the default Pin
 Here's the connection setup
 -----------------------------
 |   MQ8 To ESP32 Wiring    |
-----------------------------
-| Sensor | ESP-32 | Label  |
-----------------------------
-|  VCC   |  5V    |  Vin   |
-|  GND   |  GND   |  GND   |
-|  A0    | GPIO36 |  VP    |
-----------------------------
+| ------------------------ |
+| Sensor | ESP-32 | Label |
+| --- | --- |
+| VCC | 5V | Vin |
+| GND | GND | GND |
+| A0 | GPIO36 | VP |
+
 
 ## Additional Information
 This software module is a part of Hydrogen Energy research in Wardana Research Group, Dept. of Mechanical Engineering, Universitas Brawijaya, Malang,Indonesia
