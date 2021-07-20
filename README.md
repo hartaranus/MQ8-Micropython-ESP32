@@ -8,7 +8,8 @@ Modify the code in MQ8.get_resistance() method to change the default Pin
 
 ## Circuit Wiring
 The circuit wiring setup was tested on Espressif ESP-32 board on Pin GPIO36 (VP) using 10-bit width ADC mode. During the test Wifi connection of the board
-was still accessible. To extend the ADC GPIO connection without inferring the wifi connection please refer to ESP-32 GPIO manual.
+was still accessible. To extend the ADC GPIO connection without inferring the wifi connection please refer to ESP-32 GPIO manual
+
 Here's the connection setup
 ---
 | Sensor | ESP-32 | Label |
