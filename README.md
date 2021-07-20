@@ -12,7 +12,7 @@ Here's the connection setup
 |   MQ8 To ESP32 Wiring    |
 | ------------------------ |
 | Sensor | ESP-32 | Label |
-| --- | --- |
+| --- | --- | --- |
 | VCC | 5V | Vin |
 | GND | GND | GND |
 | A0 | GPIO36 | VP |
